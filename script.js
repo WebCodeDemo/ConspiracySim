@@ -105,7 +105,7 @@ const dialogues = {
     },
     mayor: {
         default: "Ah, a concerned citizen. What brings you to my office?",
-        hint: "Sometimes, control is necessary for peace, trust me.",
+        hint: "The mayor gives you a suitcase with clothes, pills, a fake passport, fake ID, some Chinese credit cards, and a map with Beijing, China circled in red ink. ",
         plotPoint: 5
     },
 	hintGuy: {
